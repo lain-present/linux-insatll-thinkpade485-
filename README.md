@@ -1,0 +1,1 @@
+# linux-insatll-thinkpade485-
