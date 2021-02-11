@@ -4,5 +4,5 @@
  安装镜像下载(注意校验文件完整性）[官方源](https://archlinux.org/download/),[清华源](https://mirrors.tuna.tsinghua.edu.cn/)  
  启动盘制作工具[rufus](https://rufus.ie/)  
  ### 安装
- 1.关闭windows快速启动，进行分区
- 2.关机
+ 1.关闭windows快速启动，进行分区  
+ 2.关机重启，**F12**进入bootmenu选择启动盘启动
